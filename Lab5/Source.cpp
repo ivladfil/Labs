@@ -143,7 +143,7 @@ int main() {
 			else
 				if (choose == 2) {
 					string name, god_open, classif, kol_vo_komp;
-					cout << "¬ведите им€ вируса: ";
+					cout << "¬ведите им€ антивируса: ";
 					name = writeWords();
 					system("cls");
 					cout << "¬ведите год открыти€ вируса: ";
